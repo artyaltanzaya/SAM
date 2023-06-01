@@ -1,3 +1,5 @@
 *.pth
 *.pt
 /VKRRR-5
+/runs
+.ipynb_checkpoints
